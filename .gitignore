@@ -1,0 +1,13 @@
+# Node / React
+node_modules/
+build/
+
+# Python / Django
+__pycache__/
+*.py[cod]
+*.sqlite3
+env/
+
+# IDE
+.vscode/
+.idea/
